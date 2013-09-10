@@ -1,6 +1,17 @@
 {
     "users": [
         {
+            "launchpad_id": "nikhil-komawar",
+            "companies": [
+                {
+                    "company_name": "Rackspace",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Nikhil Komawar",
+            "emails": ["nikhil.komawar@rackspace.com"]
+        },
+        {
             "launchpad_id": "0x44",
             "companies": [
                 {
